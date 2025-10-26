@@ -1,7 +1,7 @@
 
 
 ```markdown
-# 💬 Chat Messenger
+# 💬 Chat Messengerr
 
 A lightweight, real-time chat application for Local Area Networks (LAN) built with Java. Features room-based messaging, password-protected rooms, and an intuitive GUI built with Swing/AWT.
 
